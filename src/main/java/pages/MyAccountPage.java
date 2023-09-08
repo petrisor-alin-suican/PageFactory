@@ -27,6 +27,9 @@ public class MyAccountPage extends SeleniumWrappers {
 	@FindBy(css="div[class='woocommerce-MyAccount-content']")
 	public WebElement greetingsMessage;
 	
+	@FindBy(css="a[href='https://keyfood.ro/my-account-2/customer-logout/?_wpnonce=ab749370dc']")
+	public WebElement logOutButton;
+	
 	
 	public void loginInApp(String user, String pass) {
 		sendKeys(usernameField, user);
