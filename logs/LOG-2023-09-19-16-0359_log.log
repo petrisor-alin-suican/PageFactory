@@ -1,0 +1,16 @@
+16:03:59.830 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:03:59.835 [main] INFO  utils.Log - Started test case : login
+16:03:59.841 [main] INFO  utils.Log - Start time :2023.09.19.16.59
+16:03:59.841 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:03:59.841 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:03:59.842 [main] INFO  utils.Log - Skipped test case : login
+16:03:59.842 [main] INFO  utils.Log - Skipp time :2023.09.19.16.59
+16:03:59.842 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:03:59.848 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:03:59.848 [main] INFO  utils.Log - Started test case : loginInvalid
+16:03:59.849 [main] INFO  utils.Log - Start time :2023.09.19.16.59
+16:03:59.849 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:03:59.849 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:03:59.849 [main] INFO  utils.Log - Skipped test case : loginInvalid
+16:03:59.849 [main] INFO  utils.Log - Skipp time :2023.09.19.16.59
+16:03:59.849 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++

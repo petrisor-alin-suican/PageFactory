@@ -1,0 +1,16 @@
+17:18:22.041 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+17:18:22.046 [main] INFO  utils.Log - Started test case : runScenario
+17:18:22.053 [main] INFO  utils.Log - Start time :2023.09.19.17.22
+17:18:22.053 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+17:18:22.054 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+17:18:22.054 [main] INFO  utils.Log - Skipped test case : runScenario
+17:18:22.054 [main] INFO  utils.Log - Skipp time :2023.09.19.17.22
+17:18:22.054 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+17:18:22.058 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+17:18:22.061 [main] INFO  utils.Log - Started test case : runScenario
+17:18:22.061 [main] INFO  utils.Log - Start time :2023.09.19.17.22
+17:18:22.061 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+17:18:22.061 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+17:18:22.061 [main] INFO  utils.Log - Skipped test case : runScenario
+17:18:22.062 [main] INFO  utils.Log - Skipp time :2023.09.19.17.22
+17:18:22.062 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++

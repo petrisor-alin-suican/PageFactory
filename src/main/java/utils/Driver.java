@@ -15,7 +15,7 @@ public class Driver {
 	public static ThreadLocal<WebDriver> driver = new ThreadLocal<WebDriver>();
 	//public WebDriver driver;
 	
-	public WebDriver initDriver(String browser) {
+	public static WebDriver initDriver(String browser) {
 		
 		if(browser.equalsIgnoreCase("chrome")) {
 			

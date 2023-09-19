@@ -1,0 +1,15 @@
+16:01:32.857 [main] ERROR utils.Log - ++++++++++++++++++++++++++++++
+16:01:32.863 [main] ERROR utils.Log - Failed test case : login
+16:01:32.869 [main] ERROR utils.Log - Fail time :2023.09.19.16.32
+16:01:32.870 [main] ERROR utils.Log - org.testng.TestNGException: 
+Parameter 'user' is required by @Test on method login but has not been marked @Optional or defined
+in C:\Users\suicpet\eclipse-workspace\PageFactory\testng_simple.xml
+16:01:32.870 [main] ERROR utils.Log - ++++++++++++++++++++++++++++++
+16:01:32.880 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:01:32.881 [main] INFO  utils.Log - Started test case : loginInvalid
+16:01:32.881 [main] INFO  utils.Log - Start time :2023.09.19.16.32
+16:01:32.881 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:01:32.882 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++
+16:01:32.882 [main] INFO  utils.Log - Skipped test case : loginInvalid
+16:01:32.882 [main] INFO  utils.Log - Skipp time :2023.09.19.16.32
+16:01:32.882 [main] INFO  utils.Log - ++++++++++++++++++++++++++++++

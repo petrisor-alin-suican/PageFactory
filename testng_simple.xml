@@ -4,9 +4,16 @@
 		<listener class-name= "utils.TestNgListener" />
 	</listeners>
 	
-	<test name="123">
+	<parameter name = "browser" value="chrome" />
+	<parameter name = "user" value="customer" />
+	<parameter name = "pass" value="customer@123" />
+	<parameter name = "invUser" value="customeraaa" />
+	<parameter name = "invPass" value="customer@1233333" />
+
+	
+	<test name="Login">
 	<classes>
-	<class name="tests.LoginTest"></class>
+	<class name="runner.TestRunner"></class>
 	</classes>
 	</test>
 </suite>
