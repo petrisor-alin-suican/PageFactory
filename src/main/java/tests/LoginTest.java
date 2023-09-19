@@ -12,7 +12,7 @@ import utils.TestNgListener;
 @Listeners(TestNgListener.class)
 public class LoginTest extends BaseTest {
 	
-	@Test
+	@Test(priority = 1)
 	public void login() {
 		
 		app.click(app.menu.myAccountLink);
@@ -21,7 +21,7 @@ public class LoginTest extends BaseTest {
 		app.click(app.myAccount.logOutButton);
 	}
 	
-	
+	@Test(priority = 2)
 	public void loginInvalid() {
 	
 	app.click(app.menu.myAccountLink);
